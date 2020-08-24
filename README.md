@@ -1,3 +1,2 @@
-# KanbanTimer
+# sample-react-beautiful-dnd
 
-coming soon
