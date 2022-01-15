@@ -10,7 +10,7 @@
     "elliptic": "6.5.3",
     "http-proxy": "1.18.1",
     "node-fetch": "2.6.1",
-    "node-forge": "0.10.0",
+    "node-forge": "1.0.0",
     "react": "^16.13.1",
     "react-beautiful-dnd": "^13.0.0",
     "react-dom": "^16.13.1",
